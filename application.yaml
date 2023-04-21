@@ -13,6 +13,6 @@ eureka:
 #     audience: api://default
 
 
-# spring:
-#   zipkin:
-#     baseUrl: http://zipkin-svc:9411
+spring:
+  zipkin:
+    baseUrl: http://zipkin-svc:9411
